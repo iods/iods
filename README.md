@@ -2,10 +2,11 @@
 
 ## Technologies
 
+![PHP](https://img.shields.io/badge/-PHP-white?style=flat-square&logo=php)
 ![Go](https://img.shields.io/badge/-Go-white?style=flat-square&logo=go)
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-white?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github)
