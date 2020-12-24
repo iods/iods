@@ -1,5 +1,17 @@
 <h1 align="center">Hey, there, I'm <a href="https://www.ryemiller.io/" target="_blank">Rye Miller</a> <img src="https://github.com/iods/iods/raw/develop/img/hello.gif" height="32" /></h1>
 
+![PHP](https://img.shields.io/badge/PHP-Expert-a557c9?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-ffea00?style=flat-square)
+![Go](https://img.shields.io/badge/Go-Novice-45d7ff?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Novice-yellow?style=flat-square)
+![Pipelines](https://img.shields.io/badge/Pipelines-Expert-blue?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-Expert-black?style=flat-square)
+
+A little about me? I have a passion for bringing clarity to the web and the software teams behind it. It all begins with a healthy obsession for the technologies and processes from a project's inception to it's delivery. And focusing on
+being Agile, not fragile. I have played every role imaginable in the software industry. Injecting life into brands, people, and products online. My goal is to move the web forward with each line considered, each pixel defined.
+
+My vision is in the code.
+
 
 ## Technologies
 
