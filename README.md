@@ -1,5 +1,6 @@
 <h1 align="center">Hey, there, I'm <a href="https://www.ryemiller.io/" target="_blank">Rye Miller</a> <img src="https://github.com/iods/iods/raw/develop/img/hello.gif" height="32" /></h1>
 
+
 ## Technologies
 
 ![PHP](https://img.shields.io/badge/-PHP-white?style=flat-square&logo=php)
@@ -9,13 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-white?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-white?style=flat-square&logo=bitbucket)
-
-## Projects:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iods&repo=go-datafile)](https://github.com/iods/go-datafile)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iods&repo=go-calendar)](https://github.com/iods/go-calendar)
 
 
 ## Contacts
