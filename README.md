@@ -1,21 +1,20 @@
 <h1 align="center">Hey, there, I'm <a href="https://www.ryemiller.io/" target="_blank">Rye Miller</a> <img src="https://github.com/iods/iods/raw/develop/img/hello.gif" height="32" /></h1>
 
-## Projects:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iods&repo=go-datafile)](https://github.com/iods/go-datafile)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iods&repo=go-calendar)](https://github.com/iods/go-calendar)
-
 ## Technologies
 
 ![Go](https://img.shields.io/badge/-Go-white?style=flat-square&logo=go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-white?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-white?style=flat-square&logo=bitbucket)
+
+## Projects:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iods&repo=go-datafile)](https://github.com/iods/go-datafile)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iods&repo=go-calendar)](https://github.com/iods/go-calendar)
 
 
 ## Contacts
