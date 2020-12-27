@@ -3,7 +3,6 @@
 ![PHP](https://img.shields.io/badge/PHP-Expert-a557c9?style=flat-square)
 ![Go](https://img.shields.io/badge/Go-Novice-45d7ff?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-ffea00?style=flat-square)
-![Pipelines](https://img.shields.io/badge/Pipelines-Expert-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Novice-yellow?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-Expert-black?style=flat-square)
 
