@@ -6,7 +6,9 @@
 ![Python](https://img.shields.io/badge/Python-Novice-yellow?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-Expert-black?style=flat-square)
 
-A little about me? I have a passion for bringing clarity to the web and the software teams behind it. It all begins with a healthy obsession for the technologies and processes from a project's inception to it's delivery. Focusing on being Agile, not fragile. I've played every role imaginable in the software industry; injecting life into brands, people, and products online. My goal is to move the web forward with each line considered, each pixel defined.
+## About Me
+
+I have a passion for bringing clarity to the web and the software teams behind it. It all starts with a healthy obsession for the technologies and processes from a project's inception to it's delivery. I've played every role imaginable in the software industry; injecting life into brands, people, and products online. My goal is to move the web forward with each line considered, each pixel defined.
 
 My vision is in the code.
 
