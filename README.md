@@ -8,9 +8,11 @@
 
 ## About Me
 
-I have a passion for bringing clarity to the web and the software teams behind it. It all starts with a healthy obsession for the technologies and processes from a project's inception to it's delivery. I've played every role imaginable in the software industry; injecting life into brands, people, and products online. My goal is to move the web forward with each line considered, each pixel defined.
+I have a passion for bringing clarity to the internet and the software teams behind it. 
 
-My vision is in the code.
+It starts with a healthy obsession for the technologies and processes from a project's inception to it's delivery. I've played every role imaginable in the software industry; injecting life into products, people, and brands online.
+
+My goal is to move the web forward with each line considered, each pixel and character defined. My vision is in the code.
 
 
 ## Technologies
